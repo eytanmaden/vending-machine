@@ -1,0 +1,90 @@
+
+.nav-links {
+  color: rgba(240, 255, 255, 0.795);
+  text-decoration: none;
+}
+
+.nav-links:hover {
+  color: white
+}
+
+.products-page {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 40px;
+}
+
+.products-list {
+  margin-bottom: 30px;
+  width: 50%;
+}
+
+.products-list-vending {
+  margin-bottom: 30px;
+}
+
+.money {
+  width: 5rem;
+}
+
+.main-p{
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.balance-p{
+  width: 50rem;
+}
+
+.vending-m{
+  width: 100vw;
+}
+
+.vending-col{
+  height: 65vh;
+}
+
+.main-bottom{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.my-bal-col{
+  height: 65vh;
+}
+
+.my-balance{
+  width: 40%;
+}
+
+.cart-col {
+  height: 65vh;
+
+}
+
+.add-product {
+  width: 60%;
+}
+
+.cart-wrapper{
+  display: flex;
+  flex-direction: row;  
+}
+
+.approve-btn{
+  display: flex;
+  flex-direction: column;
+  justify-self: end;
+}
+
+.cart-inner-wrap{
+  height: 75%;
+}
+
+.prod-list-col, .add-prod-col{
+  height: 68vh;
+}
